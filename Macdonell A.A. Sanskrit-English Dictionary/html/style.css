@@ -1,0 +1,42 @@
+strong.word {
+    font-family: Siddhanta-Calcutta;
+    font-size: 34pt;
+    font-weight: bold;
+    color: #800000; 
+}
+
+body.abc,  body.abbs, 
+body.perf, body.add {
+    font-size: 16pt;
+}
+
+strong.header {
+    /*font-weight: bold;*/
+}
+
+td.abbs, strong.abbs {
+    font-style: italic;
+    font-size: 14pt;
+    color: #800000;
+}
+
+strong.deva {
+    font-family: Siddhanta-Calcutta;
+    color: #800000; 
+    /*font-weight: bold;*/
+    font-size: 16pt;
+}
+
+body.main strong.abbs {
+    font-size: 18pt;
+}
+
+body.main strong.page {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+body.main strong.deva {
+    font-size: 18pt;
+}
